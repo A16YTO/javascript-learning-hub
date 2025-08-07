@@ -1,2 +1,11 @@
 let name = "Hugh";
 console.log("Hello, " + name);
+let age = 20;
+let isStudent = true;
+let hobbies = ["coding", "reading", "gaming"];
+let birthYear = 2025 - age;
+console.log("You were born in " + birthYear);
+const PI = 3.14159;
+let radius = 5;
+let area = PI * radius * radius;
+console.log("Circle area: " + area);
