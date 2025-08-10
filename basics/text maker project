@@ -1,0 +1,25 @@
+let adjective; 
+let noun;
+let verb;
+let place;
+let adjective2;
+let noun2;
+adjective = 'tired'
+noun = 'mary'
+verb = 'angry'
+place = 'tree house'
+adjective2 = 'fiery'
+noun2 = 'apples'
+let firstStory = 'Once upon a time, there was a(n) ' + adjective + ' '  + noun + ' who loved to eat ' + noun2 +". The " + noun + ' lived in a '  + place + ' and had ' + adjective2 + ' nostrils that blew fire when it was ' + verb + '.'
+console.log('First story: ' + firstStory)
+let secondStory;
+adjective = 'boy'
+noun = 'named hugh'
+verb = 'crying'
+place = 'courthouse'
+adjective2 = 'smoky'
+noun2 = 'chicken'
+secondStory = 'Once upon a time, there was a(n) ' + adjective + ' ' + noun + ' who loved to eat ' + noun2 + '. The ' + noun + ' lived in a ' + place + ' and had ' +  adjective2 + ' nostrils that blew fire when it was ' + verb + '.'
+console.log('Second story: ' + secondStory )
+
+** end of script.js **
