@@ -9,3 +9,7 @@
 
 <h2>Adopt a dog!</h2>
 <a href="/dogs">Visit dogs page</a>
+
+
+href	Links	Points to a resource	<a href="page.html">Link</a>
+src	Embeds	Loads and inserts resource	<img src="pic.jpg">
