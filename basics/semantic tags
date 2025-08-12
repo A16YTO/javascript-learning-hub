@@ -1,0 +1,11 @@
+
+Semantic HTML uses tags that convey meaning about the content they wrap.
+
+✅ Examples of Semantic Tags
+Tag	Semantic Meaning
+<header>	Introductory content or navigation
+<nav>	Navigation links
+<main>	Main content of the page
+<article>	Self-contained piece of content
+<section>	Thematic grouping of content
+<footer>	Footer info like copyright or links
