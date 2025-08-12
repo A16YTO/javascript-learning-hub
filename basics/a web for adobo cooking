@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <meta =charset = "UTF-8">
+       <title>
+      Best recipe for adobo
+        </title>
+  </head>
+  <body>
+    <h1>vinegar</h1>
+    <p>Vinegar is a sour, acidic liquid produced through the fermentation of ethanol by acetic acid bacteria. It’s one of the oldest and most versatile substances used in cooking, cleaning, and even medicine.</p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>2 pounds chicken (thighs or drumsticks)</li>
+      <li>4 tablespoon soy sauce</li>
+      <li>5 cloves garlic, crushed</li>
+      <li>1 teaspoon whole peppercorn</li>
+      </ul>
+      <h2>Instructions</h2>
+      <ol>
+      <li>Marinate chicken in soy sauce and garlic for at least 1 hour.</li>
+      <li>Heat oil in a pot and pan-fry the marinated chicken for 2 minutes per side.</li>
+      <li>Add marinade, water, bay leaves, and peppercorns. Bring to a boil.</li>
+<li>Simmer for 30 minutes or until chicken is tender.</li>
+<img src ="https://upload.wikimedia.org/wikipedia/commons/4/4f/Adobo_-_Chicken_and_Pork.jpg" alt='Chicken adobo'>
+
+        </ol>
+  </body>
+   </html>    
