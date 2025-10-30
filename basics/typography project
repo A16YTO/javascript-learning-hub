@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<h1>Milky Mood Café</h1>
+<section>
+    <h2>Signature drinks</h2>
+    <p>Brown Sugar Bliss — ₱95
+Rich, creamy milk tea with caramelized brown sugar pearls.</p>
+<p>Matcha Dream — ₱105
+Smooth Japanese matcha balanced with silky milk and honey.</p>
+<p>Okinawa Cloud — ₱100
+Toasted sugar milk tea topped with whipped cream and golden syrup.</p>
+</section>
+<section>
+    <h2>Classic FLavors</h2>
+    <p>Classic Milk Tea — ₱85</p>
+    <p>Wintermelon Milk Tea — ₱90</p>
+    <p>Hokkaido Milk Tea — ₱95</p>
+    <p>Taro Milk Tea — ₱90</p>
+</section>
+<section>
+    <h2>Add-Ons</h2>
+    <p>Pearls — ₱10</p>
+    <p>Pudding — ₱15</p>
+    <p>Cream Cheese — ₱20</p>
+    <p>Aloe Jelly — ₱15</p>
+</section>
+<footer>
+    <p>Visit us at Milky Mood Café for a delightful bubble tea experience!</p>
+    </footer>
+</body>
+</html>
+
+body {
+background-color: #f8f1e4;
+color: #4b2e05;
+text-align: center;
+padding: 20px;
+font-family: 'Arial', sans-serif;
+margin: 100px;
+
+}
+h1{
+   font-size: 36px;
+    font-weight: bold;
+margin-bottom: 30px;
+}
+h2{
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+p{
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    
+}
